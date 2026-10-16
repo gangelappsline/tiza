@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /maestro
+Crawl-delay: 3
+
+Sitemap: https://tiza.appsline.com.mx/sitemap.xml
